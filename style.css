@@ -1,3 +1,14 @@
+*{
+
+    margin:0;
+    
+    padding:0;
+    
+    }
+ body{
+     height: 100%;
+ }   
+
 .formulaire{
     width: 400px;
     height: 500px;
@@ -6,12 +17,21 @@
     justify-content: center;
     align-items: center;
     border: 1px solid black;
+    border-radius: 20px;
     position: absolute;
-    background-color:red;
+    background-color:#e8eaf6;
 }
-
-
 
 #back{
     position: relative;
 }
+
+.navigation
+{
+    background-color:#e8eaf6;
+}
+
+ 
+
+
+    
