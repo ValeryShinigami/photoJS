@@ -26,9 +26,14 @@
     position: relative;
 }
 
-.navigation
-{
+.navigation{
     background-color:#e8eaf6;
+}
+
+.titre{
+
+font-family: 'Dancing Script', cursive;
+
 }
 
  
